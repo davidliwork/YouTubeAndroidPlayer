@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="BlackNoBarsTheme" parent="android:Theme.Black.NoTitleBar.Fullscreen"/>
+    <style name="BlackNoTitleBarTheme" parent="android:Theme.Black.NoTitleBar"/>
+
+</resources>
